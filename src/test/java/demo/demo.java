@@ -11,13 +11,13 @@ public class demo {
 	@Test
 	public void m()
 	{
-		assertEquals("Hello India Startup", "Hello India Startup");
+		assertEquals("Hi Im Narendra Damodar Das Modi", "Hello India");
 	}
 	
 	@Test
 	public void m1()
 	{
-		System.out.println("WELCOME TO Startup Campus");
+		System.out.println("PMO");
 	}
 
 }
